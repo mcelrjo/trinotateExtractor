@@ -23,4 +23,4 @@ Here is an example:
 ```bash
 python trinotateExtractor.py -k "Auxin-responsive protein IAA25" -t Trinotate.xls -f Paspalum_urvillei_GENES.fasta -o test.fasta
 ```
-**** Links to [Trinity](https://github.com/trinityrnaseq/trinityrnaseq/wiki), [Trinotate](https://github.com/Trinotate/Trinotate.github.io/wiki), and TransDecoder (https://github.com/TransDecoder/TransDecoder/wiki)
+**** Links to [Trinity](https://github.com/trinityrnaseq/trinityrnaseq/wiki), [Trinotate](https://github.com/Trinotate/Trinotate.github.io/wiki), and [TransDecoder](https://github.com/TransDecoder/TransDecoder/wiki)
